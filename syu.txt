@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To My Beloved Star 🌟</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Georgia', serif; 
+            background: #e4d1b9; /* grayish-brown background */
+            color: #5c4d3b; /* dark brown-gray text */
+            line-height: 1.8;
+        }
+        .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+
+        /* Header */
+        .header {
+            text-align: center;
+            padding: 40px;
+            background: linear-gradient(45deg, #b3a29d, #a69483); /* grayish-brown gradient */
+            color: white;
+        }
+
+        /* Story */
+        .story {
+            padding: 30px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin: 20px 0;
+            font-size: 1.1em;
+        }
+
+        .story p { 
+            margin: 20px 0;
+            text-align: justify;
+        }
+
+        /* Image */
+        .love-image {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            margin: 20px auto;
+            display: block;
+            object-fit: cover;
+            border: 5px solid #b3a29d;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>To My Eternal Sunshine 🌸</h1>
+        <p>A Love Story Written in Time</p>
+    </div>
+
+    <div class="container">
+        <!-- Image incorporated here -->
+        <img src="https://chat.openai.com/mnt/data/beloved_star.jpg" alt="The One I Love" class="love-image">
+
+        <div class="story">
+            <p>It was a bright noon, the kind of day where the sun was high, casting its golden warmth over everything. I remember walking out with a mix of excitement and nervousness coursing through me. I was going to pick Nyambura, the girl who had already managed to carve a special place in my heart.</p>
+            
+            <p>When I reached her, there she was—standing there, radiant, with a calm confidence that seemed to pull the world to her. We exchanged a quick hello, and I could feel the energy shift, as though the universe itself had paused to watch this moment unfold.</p>
+            
+            <p>As we walked back toward my place, I kept stealing glances at her. I couldn’t help it. Her presence was magnetic, her smile gentle yet so full of life. When we finally arrived behind my house, we stopped for a moment.</p>
+            
+            <p>Our eyes met, and it was as if time froze. There was no one else, nothing else—just the two of us. I could feel my heart pounding, each beat louder than the last. In that instant, I knew this wasn’t just another meeting. It was the beginning of something bigger, something that would stay with me no matter what.</p>
+            
+            <p>Nyambura. Her name, her essence, and that moment behind my house—it all became etched in my memory, a chapter I’d carry with me forever.</p>
+        </div>
+    </div>
+</body>
+</html>
